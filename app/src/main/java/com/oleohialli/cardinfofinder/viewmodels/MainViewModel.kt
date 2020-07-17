@@ -50,9 +50,6 @@ class MainViewModel(application: Application) : AndroidViewModel(application) {
                 response: Response<ResponseDTO>
             ) {
                 if (response.isSuccessful) {
-                    println("ddls message: " + response.message())
-                    println("ddls body: " + response.body())
-                    println("ddls code: " + response.code())
                     if (response.body() != null) {
                         if (response.code() == 200) {
                             hideLoader(activity, progressLoader)

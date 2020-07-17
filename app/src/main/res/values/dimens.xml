@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="snackbar_icon_padding">16dp</dimen>
+    <dimen name="sixteen_dp">16dp</dimen>
+    <dimen name="fifty_dp">50dp</dimen>
+    <dimen name="eight_dp">8dp</dimen>
+    <dimen name="forteen_sp">14sp</dimen>
+    <dimen name="eighteen_sp">18sp</dimen>
+    <dimen name="twenty_six_sp">26sp</dimen>
+    <dimen name="twenty_four_sp">24sp</dimen>
+    <dimen name="forteen_dp">14dp</dimen>
+    <dimen name="thirteen_sp">13sp</dimen>
+    <dimen name="sixteen_sp">16sp</dimen>
+    <dimen name="hundred_dp">100dp</dimen>
+    <dimen name="seventy_dp">70dp</dimen>
+</resources>
